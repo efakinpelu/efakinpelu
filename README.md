@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Emmanuel Akinpelu @efakinpelu
-- 👀 I’m interested in Dats science, Machine learning and AI projects
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on Data science, analytics project
+- 👀 I’m interested in Kubernetes, Machine learning and AI projects
 - 📫 How to reach me email efakinpelu1@gmail.com
 
 <!---
